@@ -2,7 +2,7 @@ function NavBar() {
   return (
       <>
         <nav className="bg-gray-500 fixed h-16 w-full flex justify-between items-center px-3">
-            <h1 className="text-red-600 text-3xl">Portfolio</h1>
+            <h1 className="text-red-600 text-3xl">Landing Page</h1>
             <div className="flex items-center gap-10">
                 <a 
                   href="." 
