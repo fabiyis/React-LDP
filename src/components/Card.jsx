@@ -1,7 +1,7 @@
-function Card(props) {
+function Card {
 
     return (
-        
+
     );
 }
 
