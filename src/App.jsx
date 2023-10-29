@@ -10,24 +10,24 @@ function App() {
       <NavBar /> 
       <SideBar />
       <Body />
-      <div>
+      <div className="flex flex-wrap items-center mt-20 justify-center">
         <Card 
-          coin="Xrp-USD"
+          coin="Xrp-USDT"
           price= "2 usdt"
-          volume= "1000000 usd"
+          volume= "7.42M usd"
         />
         <Card
-          coin="BTC-USD"
+          coin="BTC-USDT"
           price= "34,600 usdt"
           volume= "48.9M usd"
          />
         <Card 
-          coin="ETH-USD"
+          coin="ETH-USDT"
           price= "1,800 usdt"
           volume= "28.9M usd"
         />
         <Card 
-          coin="SHIB-USD"
+          coin="SHIB-USDT"
           price= "0.0005 usdt"
           volume= "4.08M usd"
         />

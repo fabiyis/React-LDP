@@ -1,8 +1,8 @@
 function NavBar() {
   return (
       <>
-        <nav className="bg-gray-500 fixed h-16 w-full flex justify-between items-center px-3">
-            <h1 className="text-red-600 text-3xl font-bold">fabXchange</h1>
+        <nav className="bg-black fixed h-16 w-full flex justify-between items-center px-3">
+            <h1 className="text-3xl font-bold text-amber-500">fabXchange</h1>
             <div className="flex items-center gap-10">
                 <a 
                   href="." 
