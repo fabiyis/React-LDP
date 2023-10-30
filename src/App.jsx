@@ -13,23 +13,23 @@ function App() {
       <div className="flex flex-wrap items-center mt-20 justify-center">
         <Card 
           coin="Xrp-USDT"
-          price= "2 usdt"
-          volume= "7.42M usd"
+          price= "0.55"
+          volume= "7.42M "
         />
         <Card
           coin="BTC-USDT"
-          price= "34,600 usdt"
-          volume= "48.9M usd"
+          price= "34,600"
+          volume= "48.9M "
          />
         <Card 
           coin="ETH-USDT"
-          price= "1,800 usdt"
-          volume= "28.9M usd"
+          price= "1,800"
+          volume= "28.9M "
         />
         <Card 
           coin="SHIB-USDT"
-          price= "0.0005 usdt"
-          volume= "4.08M usd"
+          price= "0.0005"
+          volume= "4.08M "
         />
       </div>
       <Footer />
