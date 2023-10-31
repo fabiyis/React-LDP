@@ -12,22 +12,22 @@ function App() {
       <Body />
       <div className="flex flex-wrap items-center mt-20 justify-center">
         <Card 
-          coin="Xrp-USDT"
+          coin="Xrp/USDT"
           price= "0.55"
           volume= "7.42M "
         />
         <Card
-          coin="BTC-USDT"
+          coin="BTC/USDT"
           price= "34,600"
           volume= "48.9M "
          />
         <Card 
-          coin="ETH-USDT"
+          coin="ETH/USDT"
           price= "1,800"
           volume= "28.9M "
         />
         <Card 
-          coin="SHIB-USDT"
+          coin="SHIB/USDT"
           price= "0.0005"
           volume= "4.08M "
         />
